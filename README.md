@@ -24,7 +24,7 @@ They have provided multiple attributes around Employee's past and current perfor
 | employee_id	| Unique ID for employee | 
 | department	| Department of employee |
 | region	| Region of employment (unordered) |
-| education	Education Level |
+| education |	Education Level |
 | gender | Gender of Employee |
 | recruitment_channel	| Channel of recruitment for employee |
 | no_of_trainings	| no of other trainings completed in previous year on soft skills, technical skills etc. |
