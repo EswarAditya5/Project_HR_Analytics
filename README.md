@@ -44,3 +44,6 @@ Test data is further randomly divided into Public (40%) and Private (60%) data.
 
 - Your initial responses will be checked and scored on the Public data.
 - The final rankings would be based on your private score which will be published once the competition is over.
+
+### Dependencies:
+Python 3.x Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter.
