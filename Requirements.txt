@@ -3,3 +3,4 @@ Numpy
 Matplotlib
 Seaborn
 Scikit-learn
+Streamlit
